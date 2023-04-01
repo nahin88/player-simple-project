@@ -1,0 +1,65 @@
+[
+    {
+      "id": "01",
+      "images": "https://resources.pulse.icc-cricket.com/photo-resources/2019/07/07/bee07313-fb1f-4b29-b033-f761bb52d1d1/Shakib.jpg?width=845&height=476",
+      "player_name": "sakib al Hasan",
+      "player_title": "All-Rounder",
+      "price": "550000"
+    },
+    {
+      "id": "02",
+      "images": "https://resources.pulse.icc-cricket.com/photo-resources/2022/05/18/094b3889-364f-46a3-9eb3-53c9410e2085/GettyImages-1240738938.jpg?width=640&height=360",
+      "player_name": "Mushfiqur Rahim",
+      "player_title": "Wicket keeper",
+      "price": "440000"
+    },
+    {
+      "id": "03",
+      "images": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/330800/330830.jpg",
+      "player_name": "Naim seikh",
+      "player_title": "Batsman",
+      "price": "110000"
+    },
+    {
+      "id": "04",
+      "images": "https://www.banglanews24.com/public/uploads/2023/03/16/thumbnail/1678975872.Untitled-9.jpg",
+      "player_name": "Rony Talukder",
+      "player_title": "opener batsman",
+      "price": "80000"
+    },
+    {
+      "id": "05",
+      "images": "https://www.cricket.com.au/-/media/7D77D58ABEEB4B66A03C4357B97D642F.ashx",
+      "player_name": "Hasan Mahmud",
+      "player_title": "pase bowler",
+      "price": "220000"
+    },
+    {
+      "id": "06",
+      "images": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg",
+      "player_name": "Taskin Ahmed",
+      "player_title": "pase bowler",
+      "price": "340000"
+    },
+    {
+      "id": "07",
+      "images": "https://resources.pulse.icc-cricket.com/ICC/photo/2019/01/20/3ed4b844-583c-47c3-a583-e8c12d2539f7/Mustafizur-Rahman.jpg",
+      "player_name": "Mustafizur Rahman",
+      "player_title": "pase bowler",
+      "price": "434000"
+    },
+    {
+      "id": "08",
+      "images": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/07/23/f6339ceb-f0b1-4f1e-81b0-1053a178825e/Tamim-Iqbal.jpg",
+      "player_name": "Tamim Iqbal",
+      "player_title": "Batsman",
+      "price": "320000"
+    },
+    {
+      "id": "09",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Afif_Hossain.jpg/1200px-Afif_Hossain.jpg",
+      "player_name": "Afif Hossain",
+      "player_title": "batsman",
+      "price": "234000"
+    }
+  ]
