@@ -1,6 +1,7 @@
 import React from "react";
 
-const Sideber = () => {
+const Sideber = ({ newPlayer }) => {
+
   return (
     <div>
       <div className="bg-gray-300  p-8 ml-5">
@@ -8,7 +9,10 @@ const Sideber = () => {
         <h1>Total price: {}</h1>
       </div>
       <div className="bg-rose-300 mt-5 ml-5 p-8">
-        <h1 className="font-bold">Player Name: </h1>
+        <h3 className=" font-bold">Player:</h3>
+        {
+          newPlayer.map((player,index) => <p key={index}>{ player.player_name}</p>)
+        }
       </div>
     </div>
   );
